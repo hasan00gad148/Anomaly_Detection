@@ -84,10 +84,3 @@ You can modify the following parameters in the code:
 - `threshold` in `AnomalyDetector.__init__`: Adjusts the sensitivity of anomaly detection
 - Parameters in `generate_data`: Modify the characteristics of the generated data
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
